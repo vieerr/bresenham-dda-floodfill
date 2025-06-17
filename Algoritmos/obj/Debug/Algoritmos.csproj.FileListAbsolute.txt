@@ -1,0 +1,10 @@
+C:\Users\vier\source\repos\Algoritmos\Algoritmos\bin\Debug\Algoritmos.exe.config
+C:\Users\vier\source\repos\Algoritmos\Algoritmos\bin\Debug\Algoritmos.exe
+C:\Users\vier\source\repos\Algoritmos\Algoritmos\bin\Debug\Algoritmos.pdb
+C:\Users\vier\source\repos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.csproj.AssemblyReference.cache
+C:\Users\vier\source\repos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.Form1.resources
+C:\Users\vier\source\repos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.Properties.Resources.resources
+C:\Users\vier\source\repos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.csproj.GenerateResource.cache
+C:\Users\vier\source\repos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\vier\source\repos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.exe
+C:\Users\vier\source\repos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.pdb
